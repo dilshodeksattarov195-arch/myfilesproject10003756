@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservave",
+        "uuid": 35685756,
+        "checksum": "7iqy8f"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
